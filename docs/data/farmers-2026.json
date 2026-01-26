@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "farmers-2026",
+  "name": "Farmers Insurance Open",
+  "location": "Torrey Pines (San Diego, CA)",
+  "startDateISO": "2026-01-29",
+  "updatedAtISO": "2026-01-26T18:00:00Z",
+  "notes": [
+    "South Course dominates (3 of 4 rounds).",
+    "Long + thick rough; ball-striking matters.",
+    "Poa greens; putting can be volatile."
+  ],
+  "weights": [
+    { "id": "w1", "category": "sgApproach", "weight": 0.30 },
+    { "id": "w2", "category": "sgOTT", "weight": 0.25 },
+    { "id": "w3", "category": "bogeyAvoid", "weight": 0.20 },
+    { "id": "w4", "category": "sgPuttingPoaAdj", "weight": 0.15 },
+    { "id": "w5", "category": "scrambling", "weight": 0.10 }
+  ],
+  "players": [
+    {
+      "id": "jason-day",
+      "name": "Jason Day",
+      "stats": {
+        "sgApproach": 0.20,
+        "sgOTT": 0.10,
+        "bogeyAvoidPct": 83.5,
+        "sgPuttingPoaAdj": 0.25,
+        "scramblingPct": 61.0
+      },
+      "courseHistory": [
+        "2x Farmers champion (2015, 2018).",
+        "Comfortable on Poa + Torrey setup."
+      ],
+      "betTargets": [
+        { "id": "bd1", "market": "outright", "minAmericanOdds": 3500, "note": "Only at +3500 or longer." },
+        { "id": "bd2", "market": "top10", "minAmericanOdds": 300, "note": "Top-10 is preferred vs outright." }
+      ],
+      "liveTriggers": [
+        {
+          "id": "tr1",
+          "title": "Buy bad putting / good ball-striking",
+          "conditions": [
+            "R1 score ≤ -1",
+            "Top 12 SG: Approach",
+            "Top 15 SG: T2G",
+            "Lost strokes putting"
+          ],
+          "action": "Bet Top-10 or small outright."
+        }
+      ]
+    }
+  ]
+}
