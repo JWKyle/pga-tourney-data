@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "updatedAtISO": "2026-01-26T18:00:00Z",
+  "tournaments": [
+    {
+      "id": "farmers-2026",
+      "name": "Farmers Insurance Open",
+      "startDateISO": "2026-01-29",
+      "location": "Torrey Pines (San Diego, CA)",
+      "detailUrl": "https://jwkyle.github.io/pga-tourney-data/data/farmers-2026.json"
+    }
+  ]
+}
