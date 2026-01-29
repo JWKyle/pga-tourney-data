@@ -4,26 +4,312 @@
   "name": "Farmers Insurance Open",
   "location": "Torrey Pines (San Diego, CA)",
   "startDateISO": "2026-01-29",
-  "updatedAtISO": "2026-01-26T18:00:00Z",
+  "updatedAtISO": "2026-01-28T00:00:00Z",
   "notes": [
     "South Course dominates (3 of 4 rounds).",
     "Long + thick rough; ball-striking matters.",
     "Poa greens; putting can be volatile."
   ],
   "weights": [
-    { "id": "w1", "category": "sgApproach", "weight": 0.30 },
-    { "id": "w2", "category": "sgOTT", "weight": 0.25 },
-    { "id": "w3", "category": "bogeyAvoid", "weight": 0.20 },
-    { "id": "w4", "category": "sgPuttingPoaAdj", "weight": 0.15 },
-    { "id": "w5", "category": "scrambling", "weight": 0.10 }
+    {
+      "id": "w1",
+      "category": "sgApproach",
+      "weight": 0.3
+    },
+    {
+      "id": "w2",
+      "category": "sgOTT",
+      "weight": 0.25
+    },
+    {
+      "id": "w3",
+      "category": "bogeyAvoid",
+      "weight": 0.2
+    },
+    {
+      "id": "w4",
+      "category": "sgPuttingPoaAdj",
+      "weight": 0.15
+    },
+    {
+      "id": "w5",
+      "category": "scrambling",
+      "weight": 0.1
+    }
   ],
   "players": [
     {
-      "id": "jason-day",
+      "id": "aberg-ludvig",
+      "name": "Ludvig Åberg",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "bauchou-zach",
+      "name": "Zach Bauchou",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "bezuidenhout-christiaan",
+      "name": "Christiaan Bezuidenhout",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "bhatia-akshay",
+      "name": "Akshay Bhatia",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "blanchet-chandler",
+      "name": "Chandler Blanchet",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "bradley-keegan",
+      "name": "Keegan Bradley",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "brennan-michael",
+      "name": "Michael Brennan",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "brown-dan",
+      "name": "Dan Brown",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "byrd-marcus",
+      "name": "Marcus Byrd",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "campos-rafael",
+      "name": "Rafael Campos",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "cantlay-patrick",
+      "name": "Patrick Cantlay",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "castillo-ricky",
+      "name": "Ricky Castillo",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "chatfield-davis",
+      "name": "Davis Chatfield",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "clanton-luke",
+      "name": "Luke Clanton",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "clark-wyndham",
+      "name": "Wyndham Clark",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "cole-eric",
+      "name": "Eric Cole",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "coody-pierceson",
+      "name": "Pierceson Coody",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "dahmen-joel",
+      "name": "Joel Dahmen",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "davis-cam",
+      "name": "Cam Davis",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "day-jason",
       "name": "Jason Day",
       "stats": {
-        "sgApproach": 0.20,
-        "sgOTT": 0.10,
+        "sgApproach": 0.2,
+        "sgOTT": 0.1,
         "bogeyAvoidPct": 83.5,
         "sgPuttingPoaAdj": 0.25,
         "scramblingPct": 61.0
@@ -33,8 +319,18 @@
         "Comfortable on Poa + Torrey setup."
       ],
       "betTargets": [
-        { "id": "bd1", "market": "outright", "minAmericanOdds": 3500, "note": "Only at +3500 or longer." },
-        { "id": "bd2", "market": "top10", "minAmericanOdds": 300, "note": "Top-10 is preferred vs outright." }
+        {
+          "id": "bd1",
+          "market": "outright",
+          "minAmericanOdds": 3500,
+          "note": "Only at +3500 or longer."
+        },
+        {
+          "id": "bd2",
+          "market": "top10",
+          "minAmericanOdds": 300,
+          "note": "Top-10 is preferred vs outright."
+        }
       ],
       "liveTriggers": [
         {
@@ -49,6 +345,1784 @@
           "action": "Bet Top-10 or small outright."
         }
       ]
+    },
+    {
+      "id": "dou-zecheng",
+      "name": "Zecheng Dou",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "dumont-de-chassart-adrien",
+      "name": "Adrien Dumont de Chassart",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "eckroat-austin",
+      "name": "Austin Eckroat",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "english-harris",
+      "name": "Harris English",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "ewart-a-j",
+      "name": "A.J. Ewart",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "finau-tony",
+      "name": "Tony Finau",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "fishburn-patrick",
+      "name": "Patrick Fishburn",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "fisk-steven",
+      "name": "Steven Fisk",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "ford-david",
+      "name": "David Ford",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "garnett-brice",
+      "name": "Brice Garnett",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "geddes-mark",
+      "name": "Mark Geddes",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "gerard-ryan",
+      "name": "Ryan Gerard",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "ghim-doug",
+      "name": "Doug Ghim",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "gonzalez-emilio",
+      "name": "Emilio Gonzalez",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "gotterup-chris",
+      "name": "Chris Gotterup",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "greyserman-max",
+      "name": "Max Greyserman",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "griffin-lanto",
+      "name": "Lanto Griffin",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "grillo-emiliano",
+      "name": "Emiliano Grillo",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "hastings-justin",
+      "name": "Justin Hastings",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "higgo-garrick",
+      "name": "Garrick Higgo",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "highsmith-joe",
+      "name": "Joe Highsmith",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "hirata-kensei",
+      "name": "Kensei Hirata",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "hisatsune-ryo",
+      "name": "Ryo Hisatsune",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "hodges-lee",
+      "name": "Lee Hodges",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "hoey-rico",
+      "name": "Rico Hoey",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "hoffman-charley",
+      "name": "Charley Hoffman",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "hoge-tom",
+      "name": "Tom Hoge",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "h-jgaard-nicolai",
+      "name": "Nicolai Højgaard",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "h-jgaard-rasmus",
+      "name": "Rasmus Højgaard",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "homa-max",
+      "name": "Max Homa",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "horschel-billy",
+      "name": "Billy Horschel",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "hossler-beau",
+      "name": "Beau Hossler",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "hubbard-mark",
+      "name": "Mark Hubbard",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "hughes-mackenzie",
+      "name": "Mackenzie Hughes",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "jaeger-stephan",
+      "name": "Stephan Jaeger",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "kanaya-takumi",
+      "name": "Takumi Kanaya",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "kang-jeffrey",
+      "name": "Jeffrey Kang",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "keefer-johnny",
+      "name": "Johnny Keefer",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "kim-s-h",
+      "name": "S.H. Kim",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "kim-si-woo",
+      "name": "Si Woo Kim",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "kim-tom",
+      "name": "Tom Kim",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "knapp-jake",
+      "name": "Jake Knapp",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "koepka-brooks",
+      "name": "Brooks Koepka",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "kuchar-matt",
+      "name": "Matt Kuchar",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "lamprecht-christo",
+      "name": "Christo Lamprecht",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "lebioda-hank",
+      "name": "Hank Lebioda",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "lee-s-t",
+      "name": "S.T. Lee",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "li-haotong",
+      "name": "Haotong Li",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "lipsky-david",
+      "name": "David Lipsky",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "list-luke",
+      "name": "Luke List",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "logan-hunter",
+      "name": "Hunter Logan",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "lower-justin",
+      "name": "Justin Lower",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "malnati-peter",
+      "name": "Peter Malnati",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "matsuyama-hideki",
+      "name": "Hideki Matsuyama",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "mccarthy-denny",
+      "name": "Denny McCarthy",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "mccarty-matt",
+      "name": "Matt McCarty",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "mcgreevy-max",
+      "name": "Max McGreevy",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "mcnealy-maverick",
+      "name": "Maverick McNealy",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "meissner-mac",
+      "name": "Mac Meissner",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "mitchell-keith",
+      "name": "Keith Mitchell",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "moore-taylor",
+      "name": "Taylor Moore",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "mouw-william",
+      "name": "William Mouw",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "nakajima-keita",
+      "name": "Keita Nakajima",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "neergaard-petersen-rasmus",
+      "name": "Rasmus Neergaard-Petersen",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "noren-alex",
+      "name": "Alex Noren",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "norlander-henrik",
+      "name": "Henrik Norlander",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "novak-andrew",
+      "name": "Andrew Novak",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "nyholm-pontus",
+      "name": "Pontus Nyholm",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "olesen-thorbj-rn",
+      "name": "Thorbjørn Olesen",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "parry-john",
+      "name": "John Parry",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "paul-jeremy",
+      "name": "Jeremy Paul",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "pavon-matthieu",
+      "name": "Matthieu Pavon",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "pendrith-taylor",
+      "name": "Taylor Pendrith",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "penge-marco",
+      "name": "Marco Penge",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "phillips-chandler",
+      "name": "Chandler Phillips",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "potgieter-aldrich",
+      "name": "Aldrich Potgieter",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "power-seamus",
+      "name": "Seamus Power",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "putnam-andrew",
+      "name": "Andrew Putnam",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "rai-aaron",
+      "name": "Aaron Rai",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "ramey-chad",
+      "name": "Chad Ramey",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "reitan-kristoffer",
+      "name": "Kristoffer Reitan",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "riley-davis",
+      "name": "Davis Riley",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "rodgers-patrick",
+      "name": "Patrick Rodgers",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "rose-justin",
+      "name": "Justin Rose",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "rosenmueller-thomas",
+      "name": "Thomas Rosenmueller",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "roy-kevin",
+      "name": "Kevin Roy",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "rozo-marcelo",
+      "name": "Marcelo Rozo",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "ryder-sam",
+      "name": "Sam Ryder",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "saddier-adrien",
+      "name": "Adrien Saddier",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "salinda-isaiah",
+      "name": "Isaiah Salinda",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "sargent-gordon",
+      "name": "Gordon Sargent",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "schauffele-xander",
+      "name": "Xander Schauffele",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "schenk-adam",
+      "name": "Adam Schenk",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "schmid-matti",
+      "name": "Matti Schmid",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "scott-adam",
+      "name": "Adam Scott",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "shipley-neal",
+      "name": "Neal Shipley",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "smalley-alex",
+      "name": "Alex Smalley",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "smith-jordan",
+      "name": "Jordan Smith",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "smotherman-austin",
+      "name": "Austin Smotherman",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "snedeker-brandt",
+      "name": "Brandt Snedeker",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "spaun-j-j",
+      "name": "J.J. Spaun",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "stevens-sam",
+      "name": "Sam Stevens",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "streelman-kevin",
+      "name": "Kevin Streelman",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "suber-jackson",
+      "name": "Jackson Suber",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "svensson-adam",
+      "name": "Adam Svensson",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "svensson-jesper",
+      "name": "Jesper Svensson",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "theegala-sahith",
+      "name": "Sahith Theegala",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "thompson-davis",
+      "name": "Davis Thompson",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "thorbjornsen-michael",
+      "name": "Michael Thorbjornsen",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "tosti-alejandro",
+      "name": "Alejandro Tosti",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "valimaki-sami",
+      "name": "Sami Valimaki",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "van-rooyen-erik",
+      "name": "Erik van Rooyen",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "vanderlaan-john",
+      "name": "John VanDerLaan",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "vegas-jhonattan",
+      "name": "Jhonattan Vegas",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "ventura-kris",
+      "name": "Kris Ventura",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "vilips-karl",
+      "name": "Karl Vilips",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "villegas-camilo",
+      "name": "Camilo Villegas",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "walker-danny",
+      "name": "Danny Walker",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "wallace-matt",
+      "name": "Matt Wallace",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "whaley-vince",
+      "name": "Vince Whaley",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "wise-aaron",
+      "name": "Aaron Wise",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "woodland-gary",
+      "name": "Gary Woodland",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "wu-dylan",
+      "name": "Dylan Wu",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "yellamaraju-sudarshan",
+      "name": "Sudarshan Yellamaraju",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "young-cameron",
+      "name": "Cameron Young",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "yu-kevin",
+      "name": "Kevin Yu",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
+    },
+    {
+      "id": "zalatoris-will",
+      "name": "Will Zalatoris",
+      "stats": {
+        "sgApproach": 0.0,
+        "sgOTT": 0.0,
+        "bogeyAvoidPct": 0.0,
+        "sgPuttingPoaAdj": 0.0,
+        "scramblingPct": 0.0
+      },
+      "courseHistory": [],
+      "betTargets": [],
+      "liveTriggers": []
     }
   ]
 }
